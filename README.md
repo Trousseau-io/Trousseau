@@ -1,3 +1,13 @@
+
+> [!CAUTION]
+> Trousseau is deprecated and replaced with [Kleidi](https://beezy.dev/kleidi/)   
+> The Trousseau repo is available here only for reference: https://github.com/Trousseau-io/trousseau   
+
+</br>
+</br>
+</br>
+</br>
+</br>
 <!-- 
 <p align="center">
     <img src="https://github.com/ondat/trousseau/blob/main/assets/logo-horizontal.png" >
